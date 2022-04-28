@@ -14,4 +14,5 @@ Resources:
   * https://stats.stackexchange.com/questions/219241/gradient-for-logistic-loss-function
   * https://www.youtube.com/watch?v=3CC4N4z3GJc
   * https://alliance.seas.upenn.edu/~cis520/wiki/index.php?n=lectures.boosting
+  * https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.VotingClassifier.html
   
